@@ -7,6 +7,7 @@ Nepali OCR on printed documents.
 <img src="https://raw.githubusercontent.com/prajinkhadka/Machine-Learning/master/DeepinScreenshot_select-area_20210722102805.png" width="500"/>
 </center>
 
+## Setup Locally
 
 * Install requirements : ```pip3 install -r requirements.txt```
 
