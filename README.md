@@ -12,3 +12,5 @@ Nepali OCR on printed documents.
     - gdown --id 1kvFJ7plR95lfwzWLcJWthMWrW8GIRNfS
 
 * Move Devnagari.traineddata to : /usr/share/tesseract-ocr/4.00/tessdata/
+
+* Run locally, ```python3 NepaliOCR/run.py --input "/home/prajin/NepaliOCR/NepaliOCR/doc2.pdf"```
