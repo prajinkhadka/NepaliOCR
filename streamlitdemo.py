@@ -32,7 +32,7 @@ def main():
 	if datafile is not None:
 		_, pdfFileName = save_uploadedfile(datafile)
 
-		pdfLocation = "/home/prajin/nepalicor/demofiles" + "/" + pdfFileName
+		pdfLocation = "/home/prajin/NepaliOCR/demofiles" + "/" + pdfFileName
 		print(pdfLocation)
 		images = ocr.pdf_to_image(pdfLocation)
 		text_data, word2cord, sent= ocr.image_to_text_with_coordinates(images)
