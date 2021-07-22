@@ -15,4 +15,4 @@
 
 ### Questions? Comments? Want to Contribute ?
 
-Please visit the [github repo](https://discuss.streamlit.io).
+Please visit the [github repo](https://github.com/prajinkhadka/NepaliOCR).
